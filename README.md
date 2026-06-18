@@ -1,19 +1,10 @@
 # DSA Practice
 
-Daily DSA practice in Python.
-
-Topics:
-- Arrays
-- Strings
-- More coming soon...
+This repository tracks my algorithmic problem-solving progress. All solutions are auto-synced via LeetHub.
 <!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/thehimanivarshney/DSA_Practice/tree/master/0001-two-sum) |
-## Hash Table
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/thehimanivarshney/DSA_Practice/tree/master/0001-two-sum) |
+## 📊 My LeetCode Solutions
+
+| Sr.No. | Topic | Problem | Solution Link | Difficulty |
+| :--- | :--- | :--- | :--- | :--- |
+| 01. | **Array / Hash Table** | 0001. Two Sum | [Python Code](./0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
